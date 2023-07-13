@@ -13,3 +13,6 @@ O arquivo dataset.csv contém os dados de cada produto.
 
 Link para a branch da parte 2 (análise):  
 https://github.com/dytron/data-science-mercado-livre/tree/parte-2
+
+Link para a branch da parte 3 (machine learning):  
+https://github.com/dytron/data-science-mercado-livre/tree/parte-3
